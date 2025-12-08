@@ -171,4 +171,5 @@ cython_debug/
 .pypirc
 
 # other files
-flagged/
+flagged/final_data_with_date.csv
+final_data.csv
